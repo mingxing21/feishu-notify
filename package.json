@@ -1,0 +1,15 @@
+{
+  "name": "feishu-notify",
+  "version": "1.0.0",
+  "description": "Send Feishu/Lark messages with zero config — text, markdown, cards, and file uploads in one line",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["feishu", "lark", "notify", "webhook", "bot", "message", "飞书"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": { "node": ">=14" }
+}
